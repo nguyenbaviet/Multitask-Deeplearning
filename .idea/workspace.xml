@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0c0a36d-4b67-4239-8bd7-db5e4a06d5a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="811b0f83-6ca6-45c6-bbcc-15daeb5b02dd" />
+  <component name="ProjectId" id="1ZhhtdNWB89EgPhZfZ14yV6GRLt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/person_detection" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0c0a36d-4b67-4239-8bd7-db5e4a06d5a4" name="Default Changelist" comment="" />
+      <created>1585297449561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585297449561</updated>
+      <workItem from="1585297455674" duration="599000" />
+      <workItem from="1585300746856" duration="1483000" />
+      <workItem from="1585360683929" duration="2392000" />
+      <workItem from="1585363470287" duration="14790000" />
+      <workItem from="1585450243587" duration="194000" />
+      <workItem from="1585450572665" duration="14411000" />
+      <workItem from="1585533097787" duration="5112000" />
+      <workItem from="1585539324785" duration="20196000" />
+      <workItem from="1585570638245" duration="6376000" />
+      <workItem from="1585619853843" duration="27066000" />
+      <workItem from="1585672658846" duration="706000" />
+      <workItem from="1585703309788" duration="1222000" />
+      <workItem from="1585712724396" duration="18533000" />
+      <workItem from="1585795279635" duration="5318000" />
+      <workItem from="1585840460008" duration="12052000" />
+      <workItem from="1585874526548" duration="34563000" />
+      <workItem from="1585964070558" duration="23326000" />
+      <workItem from="1586061215359" duration="10062000" />
+      <workItem from="1586078065784" duration="17428000" />
+      <workItem from="1586140911887" duration="2238000" />
+      <workItem from="1586160761804" duration="1225000" />
+      <workItem from="1586179788680" duration="599000" />
+      <workItem from="1586225092623" duration="6598000" />
+      <workItem from="1586237425977" duration="1116000" />
+      <workItem from="1586242614586" duration="2703000" />
+      <workItem from="1586251277201" duration="18414000" />
+      <workItem from="1586312031456" duration="6695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="800" height="677" key="#Deployment" timestamp="1585712996990">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Deployment/0.27.1920.1053@0.27.1920.1053" timestamp="1585712996990" />
+    <state x="568" y="342" width="774" height="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585832485054">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="568" y="342" width="774" height="421" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1585832485054" />
+    <state x="683" y="256" width="524" height="594" key="FileChooserDialogImpl" timestamp="1585628014014">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="683" y="256" width="524" height="594" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1585628014014" />
+    <state x="449" y="175" key="SettingsEditor" timestamp="1585406086461">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="175" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1585406086461" />
+    <state x="603" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1585363472199">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="603" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585363472199" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585297457253" />
+    <state x="83" y="86" width="783" height="933" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586077606505">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="83" y="86" width="783" height="933" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1586077606505" />
+    <state x="16" y="27" width="904" height="813" maximized="true" key="dock-window-1" timestamp="1585849067258">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="16" y="27" width="904" height="813" maximized="true" key="dock-window-1/0.27.1920.1053@0.27.1920.1053" timestamp="1585849067258" />
+    <state x="856" y="266" key="ftp.server.browser" timestamp="1585712995999">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="856" y="266" key="ftp.server.browser/0.27.1920.1053@0.27.1920.1053" timestamp="1585712995999" />
+    <state x="704" y="426" width="714" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585301112346">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="704" y="426" width="714" height="301" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1585301112346" />
+    <state x="59" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1585985937779">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="59" y="45" width="840" height="1034" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1585985937779" />
+  </component>
+</project>
