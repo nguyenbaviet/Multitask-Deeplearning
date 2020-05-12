@@ -4,7 +4,8 @@ import sys
 if os.path.realpath(os.getcwd()) != os.path.dirname(os.path.realpath(__file__)):
     sys.path.append(os.getcwd())
 
-import deephar
+os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 from deephar.config import pennaction_dataconf
 from deephar.config import ModelConfig
@@ -12,21 +13,19 @@ from deephar.config import ModelConfig
 from deephar.data import PennAction
 from deephar.data import BatchLoader
 
-from deephar.models import split_model
 from deephar.models import spnet
 from deephar.utils import *
 
 sys.path.append(os.path.join(os.getcwd(), 'exp/common'))
-from datasetpath import datasetpath
 
 from keras.models import Model
 import time
 
-logdir = './'
-if len(sys.argv) > 1:
-    logdir = sys.argv[1]
-    mkdir(logdir)
-    sys.stdout = open(str(logdir) + '/log.txt', 'w')
+# logdir = './'
+# if len(sys.argv) > 1:
+#     logdir = sys.argv[1]
+#     mkdir(logdir)
+#     sys.stdout = open(str(logdir) + '/log.txt', 'w')
 
 num_frames = 8
 num_clips = 250
@@ -41,7 +40,7 @@ num_action_predictions = \
 
 
 """Load PennAction"""
-penn_seq = PennAction(datasetpath('Penn_Action'), pennaction_dataconf,
+penn_seq = PennAction('/mnt/hdd3tb/Users/hoang/viet/PennAction', pennaction_dataconf,
         poselayout=pa16j2d, topology='sequences', use_gt_bbox=False,
         pred_bboxes_file='pred_bboxes_penn.json', clip_size=num_frames)
 
